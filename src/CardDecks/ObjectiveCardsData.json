@@ -1,0 +1,19 @@
+{
+  "secretObjectives": [
+    {
+      "title": "Over 9000",
+      "objective": "Acquire 3 Komek ship parts for your ship.",
+      "prestige": 1
+    },
+    {
+      "title": "Santa Maria",
+      "objective": "Complete an Explore contract alone.",
+      "prestige": 1
+    },
+    {
+      "title": "Chain Reaction",
+      "objective": "Play at least 4 Reactor cardson the same cantract.",
+      "prestige": 1
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "contractCards": [
+    {
+      "image": null,
+      "name": "Space Anomaly",
+      "type": "Explore Contract",
+      "rewards": {
+        "prestige": 0,
+        "credits": 3,
+        "bonusCard": null
+      },
+      "contractRequirements": {
+        "actionCards": [
+          {
+            "type": "reactor",
+            "number": 1,
+            "for": "contract card"
+          },
+          {
+            "type": "damage1",
+            "number": 1,
+            "for": "contract card"
+          }
+        ],
+        "hazardDie": {
+          "type": "hazardDie",
+          "number": 0
+        }
+      },
+      "key": "contract 1"
+    },
+    {
+      "image": null,
+      "name": "Ancient Ruins",
+      "type": "Explore Contract",
+      "rewards": {
+        "prestige": 2,
+        "credits": 7,
+        "bonusCard": null
+      },
+      "contractRequirements": {
+        "actionCards": [
+          {
+            "type": "reactor",
+            "number": 4,
+            "for": "contract card"
+          },
+          {
+            "type": "thruster",
+            "number": 4,
+            "for": "contract card"
+          }
+        ],
+        "hazardDie": {
+          "type": "hazardDie",
+          "number": 2
+        }
+      },
+      "key": "contract 2"
+    },
+    {
+      "image": null,
+      "name": "Probe Recovery",
+      "type": "Explore Contract",
+      "rewards": {
+        "prestige": 1,
+        "credits": 2,
+        "bonusCard": 1
+      },
+      "contractRequirements": {
+        "actionCards": [
+          {
+            "type": "reactor",
+            "number": 4,
+            "for": "contract card"
+          },
+          {
+            "type": "thruster",
+            "number": 4,
+            "for": "contract card"
+          }
+        ],
+        "hazardDie": {
+          "type": "hazardDie",
+          "number": 0
+        }
+      },
+      "key": "contract 3"
+    }
+  ]
+}

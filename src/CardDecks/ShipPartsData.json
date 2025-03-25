@@ -1,0 +1,69 @@
+{
+  "shipParts": [
+    {
+      "image": null,
+      "name": "Pulsor mk1",
+      "brand": "KOMEK",
+      "actionCards": [
+        {
+          "type": "reactor",
+          "number": 1,
+          "for": "part card"
+        }
+      ],
+      "specialAbility": "Allies start with an extra Action",
+      "cost": 2,
+      "key": "Ship Part 1"
+    },
+    {
+      "image": null,
+      "name": "Emulator mk2",
+      "brand": "KOMEK",
+      "actionCards": [
+        {
+          "type": "shield",
+          "number": 1,
+          "for": "part card"
+        }
+      ],
+      "specialAbility": "Play your first Shield without using an Action.",
+      "cost": 3,
+      "key": "Ship Part 2"
+    },
+    {
+      "image": null,
+      "name": "Sapphire mk2",
+      "brand": "KOMEK",
+      "actionCards": [
+        {
+          "type": "reactor",
+          "number": 1,
+          "for": "part card"
+        }
+      ],
+      "specialAbility": "Requirements for Reactors is 1 less",
+      "cost": 3,
+      "key": "Ship Part 3"
+    },
+    {
+      "image": null,
+      "name": "Swarm mk1",
+      "brand": "KOMEK",
+      "actionCards": [
+        {
+          "type": "damage2",
+          "number": 1,
+          "for": "part card"
+        },
+        {
+          "type": "miss",
+          "number": 1,
+          "for": "part card"
+        }
+      ],
+      "specialAbility": "Discard a Damage 1 from your hand, +2 Actions.",
+      "cost": 4,
+      "key": "Ship Part 4"
+    }
+  ]
+}

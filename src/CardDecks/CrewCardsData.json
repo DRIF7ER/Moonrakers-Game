@@ -1,0 +1,31 @@
+{
+  "crewCards": [
+    {
+      "image": null,
+      "name": "Lila al Bindar",
+      "role": "2nd Lieutenant",
+      "type": "Tech",
+      "specialAbility": "Trash a card from your hand and add a Reactor to your discard pile. +1 Action.",
+      "cost": 2,
+      "key": "tech 1"
+    },
+    {
+      "image": null,
+      "name": "Lee van Cribb",
+      "role": "Scout",
+      "type": "Tech",
+      "specialAbility": "Look at the next 3 cards in your draw pile, play 1 without an action, discard others. +1 Action.",
+      "cost": 2,
+      "key": "tech 2"
+    },
+    {
+      "image": null,
+      "name": "Ada Massa",
+      "role": "Reactor Expert",
+      "type": "Tech",
+      "specialAbility": "+3 Actions. Requirement for Reactor is 1 less.",
+      "cost": 3,
+      "key": "tech 3"
+    }
+  ]
+}
